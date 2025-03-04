@@ -5,5 +5,3 @@ println 'Hello, World!'
 def greet(name) {
     println "Hello, ${name}!"
 }
-
-greet('Groovy')
